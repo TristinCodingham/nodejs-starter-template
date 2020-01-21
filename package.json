@@ -4,7 +4,7 @@
   "description": "Basic server",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "node.js build --output public"
   },
   "author": "Tristin Cunningham",
   "license": "ISC",
